@@ -1,6 +1,6 @@
-# Inferno
+# Capium
 
-Inferno is a lightweight, boilerplate-less state management package for Blazor. It offers a dead simple solution for your app's global state.
+Capium is a lightweight, boilerplate-less state management package for Blazor. It offers a dead simple solution for your app's global state.
 
 ## Features
 
@@ -10,10 +10,10 @@ Inferno is a lightweight, boilerplate-less state management package for Blazor. 
 
 ## Installation
 
-To install Inferno, add the package to your Blazor project:
+To install Capium, add the package to your Blazor project:
 
 ```sh
-dotnet add package Inferno.Blazor.StateContainer
+dotnet add package Capium
 ```
 
 ## Usage
@@ -59,7 +59,7 @@ public class CounterStateContainer : StateContainerBase
 In your Program.cs file, register your state containers using the RegisterStateContainers extension method:
 
 ```csharp
-using Inferno;
+using Capium;
 
 // ...
 

@@ -1,4 +1,4 @@
-﻿namespace Inferno;
+﻿namespace Capium;
 
 public interface IStateContainer
 {

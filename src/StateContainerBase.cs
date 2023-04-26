@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace Inferno;
+namespace Capium;
 
 public abstract class StateContainerBase : IStateContainer
 {

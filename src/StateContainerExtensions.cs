@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Inferno;
+namespace Capium;
 public static class StateContainerExtensions
 {
     public static IServiceCollection RegisterStateContainers(
