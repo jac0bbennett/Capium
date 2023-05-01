@@ -1,5 +1,7 @@
 # Capium
 
+<img src="https://github.com/jac0bbennett/Capium/blob/main/assets/mascot.png" width="120" />
+
 Capium is a lightweight, boilerplate-less state management package for Blazor. It offers a dead simple solution for your app's global state.
 
 ## Features
