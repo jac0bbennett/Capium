@@ -10,6 +10,8 @@
     <Authors>Jacob Bennett</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jac0bbennett/Capium</RepositoryUrl>
   </PropertyGroup>
 
 
